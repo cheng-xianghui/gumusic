@@ -1,0 +1,97 @@
+
+
+{
+
+    "attrsList":[
+        {
+            "atteId":107,
+            "attrValueList":["虎蔷薇","华为","苹果","小米"],
+            "attrName":"价格"
+        },
+        
+    ],
+    "trademarkList":[
+        {
+            "tmId":1,
+            "trmName":"苹果"
+        }
+    ],
+    "goodsList":[
+        {
+            "id":1,
+            "defaulting":"http://",
+            "title":"Apple iPhone 11",
+            "price":3456,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } ,
+        {
+            "id":2,
+            "defaulting":"http://",
+            "title":"Apple iPhone 11",
+            "price":3456,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } ,
+        {
+            "id":3,
+            "defaulting":"http://",
+            "title":"Apple iPhone 11",
+            "price":3456,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } ,
+        {
+            "id":4,
+            "defaulting":"http://",
+            "title":"Apple iPhone 11",
+            "price":3456,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } 
+    ],
+    "total":8,
+    "pageSize":2,
+    "pageNo":1,
+    "totalPages":4
+    
+    
+}
+
+

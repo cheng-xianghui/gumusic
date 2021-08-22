@@ -1,0 +1,21 @@
+{
+    "code":200,
+    "message":"成功",
+    "data":[
+        {
+            "categoryChild":[
+                {
+                    "categoryName":"电子书",
+                    "categoryId":1,
+                    "categoryChild":[
+                        {
+                            "categoryName":"电子书",
+                            "categoryId":1,
+                            "categoryChild":[]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

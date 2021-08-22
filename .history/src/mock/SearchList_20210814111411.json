@@ -1,0 +1,270 @@
+
+
+{
+
+    "attrsList":[
+        {
+            "atteId":0,
+            "attrValueList":["虎蔷薇","华为","苹果","小米"],
+            "attrName":"价格1"
+        },
+        {
+            "atteId":1,
+            "attrValueList":["华为","苹果","小米"],
+            "attrName":"价格2"
+        },
+        {
+            "atteId":2,
+            "attrValueList":["虎蔷薇","华为","苹果","小米"],
+            "attrName":"价格3"
+        },
+        {
+            "atteId":4,
+            "attrValueList":["虎蔷薇1","华为2","苹果3","小米4"],
+            "attrName":"价格4"
+        },
+        {
+            "atteId":5,
+            "attrValueList":["虎蔷薇","苹果","小米"],
+            "attrName":"价格5"
+        },
+        {
+            "atteId":6,
+            "attrValueList":["虎蔷薇","华为","苹果"],
+            "attrName":"价格6"
+        },
+        {
+            "atteId":7,
+            "attrValueList":["虎蔷薇7","华为","苹果","小米"],
+            "attrName":"价格7"
+        },
+        {
+            "atteId":8,
+            "attrValueList":["虎蔷薇8","华为","苹果","小米"],
+            "attrName":"价格8"
+        },
+        {
+            "atteId":9,
+            "attrValueList":["虎蔷薇9","华为","苹果","小米"],
+            "attrName":"价格9"
+        }
+    ],
+    "trademarkList":[
+        {
+            "tmId":1,
+            "trmName":"苹果"
+        },
+        {
+            "tmId":2,
+            "trmName":"oppo"
+        },
+        {
+            "tmId":3,
+            "trmName":"苹果3"
+        },
+        {
+            "tmId":4,
+            "trmName":"华为"
+        },
+        {
+            "tmId":5,
+            "trmName":"三星"
+        },
+        {
+            "tmId":6,
+            "trmName":"vivo"
+        },
+        {
+            "tmId":7,
+            "trmName":"魅族"
+        },
+        {
+            "tmId":8,
+            "trmName":"华为3"
+        },
+        {
+            "tmId":9,
+            "trmName":"胡为你"
+        }
+    ],
+    "goodsList":[
+        {
+            "id":1,
+            "defaulting":"http://",
+            "title":"Apple iPhone 11",
+            "price":3456,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":"h",
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } ,
+        {
+            "id":2,
+            "defaulting":"http://",
+            "title":"Apple iPhone 11",
+            "price":3456,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } ,
+        {
+            "id":3,
+            "defaulting":"http://",
+            "title":"Apple iPhone 11",
+            "price":3450,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } ,
+        {
+            "id":4,
+            "defaulting":"http://",
+            "title":"Apple iPhone 11",
+            "price":3499,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } ,
+        {
+            "id":5,
+            "defaulting":"http://",
+            "title":"opop bshai",
+            "price":1999,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } ,
+        {
+            "id":6,
+            "defaulting":"http://",
+            "title":"Apple666666 iPhone 11",
+            "price":3888,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } ,
+        {
+            "id":7,
+            "defaulting":"http://",
+            "title":"Apple777777 iPhone 11",
+            "price":3777,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } ,
+        {
+            "id":8,
+            "defaulting":"http://",
+            "title":"Apple88888 iPhone 11",
+            "price":3888,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } ,
+        {
+            "id":9,
+            "defaulting":"http://",
+            "title":"Apple99999 iPhone 11",
+            "price":3999,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } ,
+        {
+            "id":10,
+            "defaulting":"http://",
+            "title":"Apple101010 iPhone 11",
+            "price":31010,
+            "caeateTime":null,
+            "tmId":null,
+            "tmName":null,
+            "category1Id":null,
+            "category1Name":null,
+            "category2Id":null,
+            "category2Name":null,
+            "category3Id":null,
+            "category3Name":null,
+            "hotScore":0,
+            "attrs":null
+        } 
+    ],
+    "total":8,
+    "pageSize":2,
+    "pageNo":1,
+    "totalPages":4
+    
+    
+}
+
+

@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "@/*":["src/*"]
+        }
+    },
+    "exclude": ["node_modules","dist"],
+    module:{
+        rules:[
+            {
+                test:/\.less$/,
+                loader:"styles-loader!css-loader!less-loader"
+            }
+        ]
+    }
+}
