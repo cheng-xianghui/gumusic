@@ -1,0 +1,37 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+       "totalAmount": 23996,
+       "userAddressList2": [
+            {
+                "id": 2,
+                "userAddress": "北京市昌平区2",
+                "userId": 2,
+                "consignee": "mical",
+                "phoneNum": "15011111111",
+                "isDefault": "0"
+            },
+            {
+                "id": 3,
+                "userAddress": "杭州市昌平区2",
+                "userId": 2,
+                "consignee": "zhao",
+                "phoneNum": "18811111111",
+                "isDefault": "1"
+            },
+            {
+                "id": 4,
+                "userAddress": "上海市昌平区2",
+                "userId": 2,
+                "consignee": "cheng",
+                "phoneNum": "15011999911",
+                "isDefault": "1"
+            }
+        ],
+        "tradeNo": "1b23c1efc8144bfc83e51807f4e71d3a",
+        "totalNum": 1
+       
+    },
+    "ok": true
+}

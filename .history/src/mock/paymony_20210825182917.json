@@ -1,0 +1,8 @@
+{
+    "code":200,
+    "message":"成功",
+    "data":{
+        "paymony":1999,
+        "codeUrl":"weixin"
+    }
+}

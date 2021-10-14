@@ -1,0 +1,32 @@
+{
+    "consignee": "admin",
+    "totalAmount": 23996,
+    "tradeNo": "1b23c1efc8144bfc83e51807f4e71d3a",
+    "totalNum": 1,
+    "consigneeTel": "15011111111",
+    "deliveryAddress": "北京市昌平区2",
+    "paymentWay": "ONLINE",
+    "orderComment": "xxx",
+    "orderDetailList": [
+        {
+            "id": null,
+            "orderId": null,
+            "skuId": 6,
+            "skuName": " Apple iPhone 11 (A2223) 128GB 红色 移动联通电信22",
+            "imgUrl": "https://tse1-mm.cn.bing.net/th?id=OIP-C.IC1HMBxwkOMANGjWqon4swHaKq&w=94&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2",
+            "orderPrice": 4343,
+            "skuNum": 2,
+            "hasStock": null
+        },
+        {
+            "id": null,
+            "orderId": null,
+            "skuId": 4,
+            "skuName": "Apple iPhone 11 (A2223) 128GB 红色",
+            "imgUrl": "https://tse1-mm.cn.bing.net/th?id=OIP-C.IC1HMBxwkOMANGjWqon4swHaKq&w=94&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2",
+            "orderPrice": 5999,
+            "skuNum": 1,
+            "hasStock": null
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "records": [
+            {
+                "id": 70,
+                "consignee": "admin",
+                "consigneeTel": "15011111111",
+                "totalAmount": 29495,
+                "orderStatus": "UNPAID",
+                "userId": 2,
+                "paymentWay": "ONLINE",
+                "deliveryAddress": "北京市昌平区2",
+                "orderComment": "",
+                "outTradeNo": "ATGUIGU1584247289311481",
+                "tradeBody": "Apple iPhone 11 (A2223) 128GB手机 双卡双待 A",
+                "createTime": "2020-03-15 12:41:29",
+                "expireTime": "2020-03-16 12:41:29",
+                "processStatus": "UNPAID",
+                "trackingNo": null,
+                "parentOrderId": null,
+                "imgUrl": null,
+                "orderDetailList": [
+                    {
+                        "id": 81,
+                        "orderId": 70,
+                        "skuId": 2,
+                        "skuName": "Apple iPhone 11 (A2223) 64GB 红色",
+                        "imgUrl": "https://tse1-mm.cn.bing.net/th?id=OIP-C.IC1HMBxwkOMANGjWqon4swHaKq&w=94&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2",
+                        "orderPrice": 5499,
+                        "skuNum": 1,
+                        "hasStock": null
+                    },
+                    {
+                        "id": 82,
+                        "orderId": 80,
+                        "skuId": 4,
+                        "skuName": "华为 iPhone 11 (A2223) 64GB 红色",
+                        "imgUrl": "https://tse1-mm.cn.bing.net/th?id=OIP-C.IC1HMBxwkOMANGjWqon4swHaKq&w=94&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2",
+                        "orderPrice": 5499,
+                        "skuNum": 1,
+                        "hasStock": null
+                    }
+                    
+                ],
+                "orderStatusName": "未支付",
+                "wareId": null
+            },
+            {
+                "id": 8,
+                "consignee": "alkj",
+                "consigneeTel": "15011kk1111",
+                "totalAmount": 29400,
+                "orderStatus": "PAID",
+                "userId": 3,
+                "paymentWay": "ONLINE",
+                "deliveryAddress": "上海市昌平区2",
+                "orderComment": "",
+                "outTradeNo": "ATGUIGU1584247289310481",
+                "tradeBody": "Apple iPhone 11 (A2223) 128GB手机 双卡双待 A",
+                "createTime": "2020-03-15 12:41:29",
+                "expireTime": "2020-03-16 12:41:29",
+                "processStatus": "UNPAID",
+                "trackingNo": null,
+                "parentOrderId": null,
+                "imgUrl": null,
+                "orderDetailList": [
+                    {
+                        "id": 81,
+                        "orderId": 70,
+                        "skuId": 2,
+                        "skuName": "Apple iPhone 11 (A2223) 64GB 红色",
+                        "imgUrl": "https://tse1-mm.cn.bing.net/th?id=OIP-C.IC1HMBxwkOMANGjWqon4swHaKq&w=94&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2",
+                        "orderPrice": 5499,
+                        "skuNum": 1,
+                        "hasStock": null
+                    },
+                    {
+                        "id": 82,
+                        "orderId": 80,
+                        "skuId": 4,
+                        "skuName": "华为 iPhone 11 (A2223) 64GB 红色",
+                        "imgUrl": "https://tse1-mm.cn.bing.net/th?id=OIP-C.IC1HMBxwkOMANGjWqon4swHaKq&w=94&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2",
+                        "orderPrice": 5499,
+                        "skuNum": 1,
+                        "hasStock": null
+                    }
+                    
+                ],
+                "orderStatusName": "未支付",
+                "wareId": null
+            }
+            
+        ],
+        "total": 41,
+        "size": 2,
+        "current": 1,
+        "pages": 21
+    },
+    "ok": true
+}

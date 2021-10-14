@@ -97,7 +97,7 @@ import throttle from 'lodash/throttle'
         },
         //组件在挂载完成的时候，就立马发请求获取数据，存储到vuex里面，而不是直接在vue组件里面
        mounted(){
-        //    dispctch是奋发和触发的意思，和emit单词意思一样
+        //    dispctch是分发和触发的意思，和emit单词意思一样
         // 本质其实就是在调用action函数
           this.$store.dispatch('getCategoryList')
           if(this.$route.path !=='/home'){
